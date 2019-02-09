@@ -7,7 +7,7 @@ class App extends Component {
     return (
       <div className="App">
         <header className="App-header">
-        <h2>HELLO NETLIFY</h2>
+        <h2>HELLO FROM "SARANJEET SINGH SONY"</h2>
           <img src={logo} className="App-logo" alt="logo" />
           <p>
             Edit <code>src/App.js</code> and save to reload.
